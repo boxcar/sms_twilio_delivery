@@ -1,0 +1,9 @@
+# SMS Delivery via Twilio of your Boxcar notifications.
+
+We love remixes of all kinds here at Boxcar.  Not only music, but apps and APIs as well.  In fact, our parent company is named App Remix Corp which originally came from the idea that we were going to create tons of apps that used APIs from other websites.
+
+1. Sign up for a Twilio account!
+2. Enter your Boxcar and Twilio credentials into sms_delivery.rb (see the SETTINGS hash).
+3. Run it!
+
+Questions?  Just ask: jonathan@boxcar.io
